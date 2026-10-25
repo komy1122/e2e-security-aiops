@@ -1,0 +1,5 @@
+[
+  {"event_id": "demo-app-1", "source": "application", "timestamp": "2026-10-25T09:01:00+09:00", "entity": "demo-service"},
+  {"event_id": "demo-waf-1", "source": "waf", "timestamp": "2026-10-25T00:00:00Z", "entity": "demo-service"},
+  {"event_id": "demo-fw-1", "source": "firewall", "timestamp": "2026-10-25T00:10:00Z", "entity": "demo-service"}
+]
